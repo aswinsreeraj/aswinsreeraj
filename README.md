@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! You have come to the domain of Aswin Sreeraj</h1>
 <h3 align="center">A wildcard entry to the field of backend development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinsreeraj" alt="aswinsreeraj" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinsreeraj&label=Profile%20views&color=0e75b6&style=flat" alt="aswinsreeraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamaswinsreeraj" target="blank"><img src="https://img.shields.io/twitter/follow/iamaswinsreeraj?logo=twitter&style=for-the-badge" alt="iamaswinsreeraj" /></a> </p>
 
