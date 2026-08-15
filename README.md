@@ -22,7 +22,11 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=go,graphql" />
+<img src="https://skillicons.dev/icons?i=go,graphql,c" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=javascript,react,tailwind" />
 
 **Databases**
 
@@ -30,7 +34,7 @@
 
 **Messaging & Caching**
 
-<img src="https://skillicons.dev/icons?i=kafka,redis" /> <img src="https://img.shields.io/badge/Dragonfly-00C7B7?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=kafka,redis" />
 
 **Infrastructure**
 
@@ -38,11 +42,11 @@
 
 **Also familiar with**
 
-<img src="https://skillicons.dev/icons?i=react,ts" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,python" />
 
 **Currently exploring**
 
-<img src="https://skillicons.dev/icons?i=kubernetes,nixos" />
+<img src="https://skillicons.dev/icons?i=kubernetes,nix" />
 
 <br/>
 
