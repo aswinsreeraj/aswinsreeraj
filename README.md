@@ -22,7 +22,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=go,graphql,c" />
+<img src="https://skillicons.dev/icons?i=go,graphql,nodejs" />
 
 **Frontend**
 
@@ -42,7 +42,7 @@
 
 **Also familiar with**
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,python" />
+<img src="https://skillicons.dev/icons?i=ts,c,cpp,python" />
 
 **Currently exploring**
 
