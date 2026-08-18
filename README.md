@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+booting+aswin.service...;%3E+connecting+to+postgres...+OK;%3E+acquiring+optimistic+lock...+OK;%3E+loading+go+runtime+v1.22...;%3E+status%3A+production-ready+%E2%9C%93" alt="Typing SVG" />
-
 </div>
 
 <h1 align="center">Hey, I'm Aswin 👋</h1>
@@ -20,33 +18,56 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**
+<p align="left">
+<b>Backend:</b>&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" valign="middle" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=go,graphql,nodejs" />
+<p align="left">
+<b>Frontend:</b>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" valign="middle" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" valign="middle" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" valign="middle" />
+</p>
 
-**Frontend**
+<p align="left">
+<b>Databases:</b>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" valign="middle" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=javascript,react,tailwind" />
+<p align="left">
+<b>Messaging & Caching:</b>&nbsp;
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" valign="middle" />
+</p>
 
-**Databases**
+<p align="left">
+<b>Infrastructure:</b>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" valign="middle" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" valign="middle" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+<p align="left">
+<b>Also familiar with:</b>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" valign="middle" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" valign="middle" />
+</p>
 
-**Messaging & Caching**
-
-<img src="https://skillicons.dev/icons?i=kafka,redis" />
-
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,jenkins" />
-
-**Also familiar with**
-
-<img src="https://skillicons.dev/icons?i=ts,c,cpp,python" />
-
-**Currently exploring**
-
-<img src="https://skillicons.dev/icons?i=kubernetes,nix" />
+<p align="left">
+<b>Currently exploring:</b>&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" valign="middle" />
+</p>
 
 <br/>
 
@@ -65,12 +86,24 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsreeraj&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5A0&line=00F5A0&point=ffffff" width="100%"/>
-
 </div>
+
+## 🌱 Open Source Contributions
+
+<p align="center">
+I contribute to open-source projects when I can — mostly around Go tooling and infra-adjacent libraries.
+</p>
+
+<p align="center">
+  <a href="https://github.com/oras-project/oras-go"><img src="https://img.shields.io/badge/oras--project/oras--go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
+  <a href="https://github.com/kavix/eko"><img src="https://img.shields.io/badge/kavix/eko-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aswinsreeraj?tab=repositories&q=&type=source"><img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ## 🚀 Featured Project
 
@@ -92,17 +125,13 @@
 - 💰 **Wallet ledger** with optimistic locking to prevent race conditions on concurrent balance updates — no double-spends, no lost writes
 - 🎫 **Ticketing engine** handling inventory, holds, and purchase flows under contention
 - 📈 **Analytics pipeline** for real-time event and transaction insights
-- 🔌 Internal services communicate over **gRPC**, with **Redis** for caching and **Postgres** as the source of truth
-
+- 🔌 Internal services communicate over **REST APIs**, with **Redis** for caching and **Postgres** as the source of truth
 
 ---
 
 <div align="center">
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=aswinsreeraj&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
-
 <br/><br/>
 
 `> process aswin.service exited with code 0 — see you in the next commit 🫡`
