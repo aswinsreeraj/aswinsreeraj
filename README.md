@@ -16,7 +16,7 @@
   <a href="mailto:aswinsreeraj96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 <b>Backend:</b>&nbsp;
@@ -81,16 +81,16 @@
 
 <br/>
 
-> 🔭 **Currently exploring:** NixOS and declarative system configuration — rethinking how I set up and reproduce dev environments, one `.nix` file at a time.
-> Also dipping into open-source contributions along the way. 🌱
+>  **Currently exploring:** NixOS and declarative system configuration — rethinking how I set up and reproduce dev environments, one `.nix` file at a time.
+> Also dipping into open-source contributions along the way. 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsreeraj&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5A0&line=00F5A0&point=ffffff" width="100%"/>
 </div>
 
-## 🌱 Open Source Contributions
+## Open Source Contributions
 
 <p align="center">
 I contribute to open-source projects when I can — mostly around Go tooling and infra-adjacent libraries.
@@ -106,11 +106,17 @@ I contribute to open-source projects when I can — mostly around Go tooling and
   <a href="https://github.com/aswinsreeraj?tab=repositories&q=&type=source"><img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-## 🚀 Featured Project
+## Badges
+<p align="left">
+  <a href="https://www.credly.com/badges/9da6969d-6c72-496d-8a91-685c7968ff83/public_url"><img src="https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" width="50" valign="middle" /></a>
+  <a href="https://www.credly.com/badges/61007bb3-ea0d-4fe5-851f-d19050bf19cf/public_url"><img src="https://images.credly.com/size/110x110/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="50" valign="middle" /></a>
+</p>
+
+## Featured Project
 
 <div align="center">
 
-### 🎟️ EVNTX — Event Ticketing & Wallet Platform
+### EVNTX — Event Ticketing & Wallet Platform
 
 *A production-grade backend system for ticketing, wallets, and real-time analytics — built to handle money correctly, every time.*
 
@@ -123,10 +129,10 @@ I contribute to open-source projects when I can — mostly around Go tooling and
 </div>
 
 **What makes it interesting:**
-- 💰 **Wallet ledger** with optimistic locking to prevent race conditions on concurrent balance updates — no double-spends, no lost writes
-- 🎫 **Ticketing engine** handling inventory, holds, and purchase flows under contention
-- 📈 **Analytics pipeline** for real-time event and transaction insights
-- 🔌 Internal services communicate over **REST APIs**, with **Redis** for caching and **Postgres** as the source of truth
+- **Wallet ledger** with optimistic locking to prevent race conditions on concurrent balance updates — no double-spends, no lost writes
+- **Ticketing engine** handling inventory, holds, and purchase flows under contention
+- **Analytics pipeline** for real-time event and transaction insights
+- Internal services communicate over **REST APIs**, with **Redis** for caching and **Postgres** as the source of truth
 
 ---
 
