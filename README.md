@@ -101,6 +101,7 @@ I contribute to open-source projects when I can.
   <a href="https://github.com/kavix/eko"><img src="https://img.shields.io/badge/kavix/eko-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
   <a href="https://github.com/bootc-dev/bink"><img src="https://img.shields.io/badge/bootc--dev/bink-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
   <a href="https://github.com/KERALACODERSCAFE/Kerala-toddy-finder"><img src="https://img.shields.io/badge/KERALACODERSCAFE/Kerala--toddy--finder-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
+  <a href="https://github.com/lingdojo/kana-dojo"><img src="https://img.shields.io/badge/lingdojo/kana--dojo-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
 </p>
 
 <p align="center">
