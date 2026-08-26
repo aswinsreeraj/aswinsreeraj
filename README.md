@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" valign="middle" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" valign="middle" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" valign="middle" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" valign="middle" />
 </p>
 
 <p align="left">
@@ -65,7 +66,6 @@
 
 <p align="left">
 <b>Currently exploring:</b>&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" valign="middle" />
 <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" valign="middle" />
 </p>
 
@@ -101,7 +101,6 @@ I contribute to open-source projects when I can.
   <a href="https://github.com/kavix/eko"><img src="https://img.shields.io/badge/kavix/eko-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
   <a href="https://github.com/bootc-dev/bink"><img src="https://img.shields.io/badge/bootc--dev/bink-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
   <a href="https://github.com/KERALACODERSCAFE/Kerala-toddy-finder"><img src="https://img.shields.io/badge/KERALACODERSCAFE/Kerala--toddy--finder-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
-  <a href="https://github.com/lingdojo/kana-dojo"><img src="https://img.shields.io/badge/lingdojo/kana--dojo-000000?style=for-the-badge&logo=go&logoColor=00ADD8"></a>
 </p>
 
 <p align="center">
